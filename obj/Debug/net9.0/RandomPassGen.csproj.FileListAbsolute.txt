@@ -1,0 +1,14 @@
+C:\Users\VOICE\Desktop\RandomPassGen\bin\Debug\net9.0\RandomPassGen.exe
+C:\Users\VOICE\Desktop\RandomPassGen\bin\Debug\net9.0\RandomPassGen.deps.json
+C:\Users\VOICE\Desktop\RandomPassGen\bin\Debug\net9.0\RandomPassGen.runtimeconfig.json
+C:\Users\VOICE\Desktop\RandomPassGen\bin\Debug\net9.0\RandomPassGen.dll
+C:\Users\VOICE\Desktop\RandomPassGen\bin\Debug\net9.0\RandomPassGen.pdb
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\RandomPassGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\RandomPassGen.AssemblyInfoInputs.cache
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\RandomPassGen.AssemblyInfo.cs
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\RandomPassGen.csproj.CoreCompileInputs.cache
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\RandomPassGen.dll
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\refint\RandomPassGen.dll
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\RandomPassGen.pdb
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\RandomPassGen.genruntimeconfig.cache
+C:\Users\VOICE\Desktop\RandomPassGen\obj\Debug\net9.0\ref\RandomPassGen.dll
