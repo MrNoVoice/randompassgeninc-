@@ -20,7 +20,6 @@ namespace RandomPassGen
         }
     }
 
-
     class Program
     {
         static void Main(string[] args)
@@ -36,20 +35,31 @@ namespace RandomPassGen
 
 
             // questions to determine the password
-            Console.WriteLine("Please enter the length of the password:");
+            Console.Write("Please enter the length of the password: ");
             var passwordLength = int.Parse(Console.ReadLine());
 
-            Console.Write("Do you want to include uppercase ? y/n ");
+            Console.WriteLine();
+
+            Console.Write("Do you want to include uppercase ? y/n :  ");
             var includeUppercase = Console.ReadLine().ToLower() == "y";
 
-            Console.Write("Do you want to include lowercase ? y/n ");
+            Console.WriteLine();
+
+            Console.Write("Do you want to include lowercase ? y/n : ");
             var includeLowercase = Console.ReadLine().ToLower() == "y";
 
-            Console.Write("Do you want to include numbers ? y/n ");
+            Console.WriteLine();
+
+            Console.Write("Do you want to include numbers ? y/n :  ");
             var includeNumbers = Console.ReadLine().ToLower() == "y";
 
-            Console.Write("Do you want to include symbols ? y/n ");
+            Console.WriteLine();
+
+            Console.Write("Do you want to include symbols ? y/n :  ");
             var includeSymbols = Console.ReadLine().ToLower() == "y";
+
+            Console.WriteLine();
+
             // questions end
 
             // inclusion of characters
